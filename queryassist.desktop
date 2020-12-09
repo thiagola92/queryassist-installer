@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open  
+
+[Desktop Entry]
+Version=1.0
+Name=QueryAssist
+Exec=queryassist
+Terminal=false
+Type=Application
+X-Ayatana-Desktop-Shortcuts=NewWindow
+Icon=/usr/share/icons/queryassist-icon.png
