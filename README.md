@@ -1,0 +1,1 @@
+# queryassist-installer
